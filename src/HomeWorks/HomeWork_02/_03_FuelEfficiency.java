@@ -29,7 +29,7 @@ public class _03_FuelEfficiency {
         double price = input.nextDouble();
 
         double cost = (distance / miles) * price;
-        System.out.println("  >> The cost of driving is: $" + cost);
+        System.out.println("  >> The cost of driving is: $ " + cost);
 
     }
 
