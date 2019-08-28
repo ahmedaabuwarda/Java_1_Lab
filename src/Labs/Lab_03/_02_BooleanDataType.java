@@ -5,11 +5,18 @@
 
 package Labs.Lab_03;
 
+/**
+ * @author Ahmed Abuwarda, Date: Aug 29,2019.
+ */
 public class _02_BooleanDataType {
-    public static void main(String[] args) {
 
-        System.out.println("\n  >> boolean is: true or false" +
-                "\n     true = 1 , false = 0");
+    /**
+     * @param args the command line here.
+     */
+    public static void main(String[] args) {
+        // TODO code application logic here.
+
+        System.out.println("\n  >> boolean is: true or false" + "\n     true = 1 , false = 0");
         boolean isOn = true;
         System.out.println("  >> isOn: " + isOn);
 
@@ -30,4 +37,5 @@ public class _02_BooleanDataType {
                 "\n X != 1 ? " + (x != 1));
 
     }
+
 }
