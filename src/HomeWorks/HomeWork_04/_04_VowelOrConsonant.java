@@ -8,7 +8,7 @@ package HomeWorks.HomeWork_04;
 import java.util.Scanner;
 
 /**
- * @author Ahmed Abuwarda on: Aug 29,2019.
+ * @author Ahmed Abuwarda, Date: Aug 29,2019.
  */
 public class _04_VowelOrConsonant {
 
@@ -19,6 +19,7 @@ public class _04_VowelOrConsonant {
         // TODO code application logic here.
 
         Scanner input = new Scanner(System.in);
+
         System.out.print("\n  >> Enter a Character: ");
         String letter = input.nextLine();
         String toLowerCase = letter.toLowerCase();
