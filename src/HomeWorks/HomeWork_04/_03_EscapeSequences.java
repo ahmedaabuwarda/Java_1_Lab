@@ -16,7 +16,7 @@ public class _03_EscapeSequences {
     public static void main(String[] args) {
         // TODO code application logic here.
 
-        System.out.println("\n \\\\ \\\" = \\ \" ");
+        System.out.println("\n \\\\ \t \\\" = \\ \" ");
 
     }
 
