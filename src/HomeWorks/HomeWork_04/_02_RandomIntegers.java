@@ -27,12 +27,9 @@ public class _02_RandomIntegers {
         int random5 = (int) (-1 + Math.random() * 3);
         int random6 = (int) (-3 + Math.random() * 15);
 
-        System.out.println("\n 1 ≤ n ≤ 2 = " + random1 +
-                "\n 1 ≤ n ≤ 100 = " + random2 +
-                "\n 0 ≤ n ≤ 9 = " + random3 +
-                "\n 1000 ≤ n ≤ 1112 = " + random4 +
-                "\n -1 ≤ n ≤ 1 = " + random5 +
-                "\n -3 ≤ n ≤ 11 = " + random6);
+        System.out.println("\n 1 ≤ n ≤ 2 = " + random1 + "\n 1 ≤ n ≤ 100 = " + random2 +
+                "\n 0 ≤ n ≤ 9 = " + random3 + "\n 1000 ≤ n ≤ 1112 = " + random4 +
+                "\n -1 ≤ n ≤ 1 = " + random5 + "\n -3 ≤ n ≤ 11 = " + random6);
 
     }
 
