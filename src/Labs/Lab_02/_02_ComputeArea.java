@@ -22,7 +22,7 @@ public class _02_ComputeArea {
 
         System.out.print("\n >> Enter Your Radius: ");
         double radius = input.nextDouble();
-        final double circumference = radius * 2 * Math.PI;  // final.
+        final double circumference = radius * 2 * Math.PI;      // final.
         System.out.println("\n >> The Circumference is: " + circumference);
 
     }
