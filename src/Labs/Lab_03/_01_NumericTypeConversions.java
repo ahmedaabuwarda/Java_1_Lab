@@ -5,8 +5,16 @@
 
 package Labs.Lab_03;
 
+/**
+ * @author Ahmed Abuwarda, Date: Aug 29,2019.
+ */
 public class _01_NumericTypeConversions {
+
+    /**
+     * @param args the command line here.
+     */
     public static void main(String[] args) {
+        // TODO code application logic here.
 
         /*
             Casting:
@@ -21,17 +29,18 @@ public class _01_NumericTypeConversions {
         */
 
         // Widening examples:
-        double x = 3 * 4.5; // implicit widening, 3 is now 3.0
+        double x = 3 * 4.5; // implicit widening, 3 is now 3.0.
         int i = 5;
-        double d = i; // implicit widening, d is now 5.0
+        double d = i; // implicit widening, d is now 5.0.
 
         // Narrowing examples:
         double f = 10.5;
-        int g = (int) f; // explicit narrowing, i is now 10
+        int g = (int) f; // explicit narrowing, i is now 10.
 
         int sum = 0;
-        sum += 4.5;     // becomes sum = (int) sum + 4.5
-        System.out.println("\n int sum = 0;" + "\n sum += 4.5;  >>  " + sum);    // print 4
+        sum += 4.5;     // becomes sum = (int) sum + 4.5.
+        System.out.println("\n int sum = 0;" + "\n sum += 4.5;  >>  " + sum);    // print 4.
 
     }
+
 }
