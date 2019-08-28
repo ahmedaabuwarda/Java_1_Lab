@@ -6,7 +6,7 @@
 package HomeWorks.HomeWork_04;
 
 /**
- * @author Ahmed Abuwarda on: Aug 29,2019.
+ * @author Ahmed Abuwarda, Date: Aug 29,2019.
  */
 public class _03_EscapeSequences {
 
