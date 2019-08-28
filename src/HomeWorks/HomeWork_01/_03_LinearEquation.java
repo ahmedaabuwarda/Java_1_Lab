@@ -39,8 +39,7 @@ public class _03_LinearEquation {
         double x = ((e * d) - (b * f)) / ((a * d) - (b * c));
         double y = ((a * f) - (e * c)) / ((a * d) - (b * c));
 
-        System.out.println("\n >> x = " + x +
-                "\n >> y = " + y);
+        System.out.println("\n >> x = " + x + "\n >> y = " + y);
 
     }
 
