@@ -22,6 +22,7 @@ public class _08_Ex01_FahrenheitToCelsius {
 
         System.out.print("\n >> Enter your Celsius degree: ");
         double celsius = input.nextDouble();
+
         double fahrenheit = (9.0 / 5.0) * celsius + 32;
         System.out.println(" >> " + celsius + " celsius = " + fahrenheit + " fahrenheit");
 
