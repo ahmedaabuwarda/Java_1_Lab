@@ -19,6 +19,7 @@ public class _03_Divisible_And_Or_Not {
         // TODO code application logic here.
 
         Scanner input = new Scanner(System.in);
+
         System.out.print("\n  >> Enter an integer: ");
         int integer = input.nextInt();
 
