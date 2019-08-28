@@ -1,20 +1,30 @@
-/*
-* Write a program that asks the user to enter a number (radius of a circle) and the program
-* calculates the area of the circle and print the result to the console.
-*/
+/**
+ * To change this template file, choose Settings | Editor | File and Code Templates
+ * and change the template in the editor.
+ */
 
 package Labs.Lab_01;
 
 import java.util.Scanner;
 
+/**
+ * @author Ahmed Abuwarda, Date: Aug 29,2019.
+ */
 public class _04_Area {
+
+    /**
+     * @param args the command line here.
+     */
     public static void main(String[] args) {
+        // TODO code application logic here.
 
         Scanner input = new Scanner(System.in);
+
         System.out.print("\n Enter Your Radius: ");
         double radius = input.nextDouble();
         double Area = radius * radius * Math.PI;
         System.out.println("\n The Area: " + Area);
 
     }
+
 }
