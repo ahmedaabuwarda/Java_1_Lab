@@ -16,7 +16,7 @@ public class _01_Variables {
     public static void main(String[] args) {
         // TODO code application logic here.
 
-        int i = 1 , j = 2 , k = 3;
+        int i = 1, j = 2, k = 3;
 
         // int y = x + 1;  >>>  Can not find Symbol.
         // Symbol: Variable x.
