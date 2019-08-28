@@ -19,6 +19,7 @@ public class _02_ISBN_10 {
         // TODO code application logic here.
 
         Scanner input = new Scanner(System.in);
+
         System.out.print("\n  >> Enter the first 9 digits of an ISBN as integer: ");
         int number = input.nextInt();
 
