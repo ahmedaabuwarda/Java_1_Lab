@@ -21,6 +21,7 @@ public class _01_MinutesToYearsAndDays {
         Scanner input = new Scanner(System.in);
         System.out.print("\n  >> Enter the number of minutes: ");
         int minutes = input.nextInt();
+
         int years = minutes / (60 * 24 * 365);
         int remMinutes = minutes % (60 * 24 * 365);
         int remDays = remMinutes / (60 * 24);
