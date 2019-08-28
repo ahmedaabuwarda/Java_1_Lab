@@ -16,10 +16,10 @@ public class _05_OperatorPrecedence {
     public static void main(String[] args) {
         // TODO code application logic here.
 
-        System.out.println("\n                 10       9 % 6" +
-                "\n 25 + 15 * 3 - ------- + -------- + 1 = " +
+        System.out.println("\n                10       9 % 6" +
+                "\n25 + 15 * 3 - ------- + -------- + 1 = " +
                 (25 + (15 * 3) - (10 / (2 * 6)) + ((9 % 6) / 3) + 1) +
-                "\n                2 * 6       3");
+                "\n               2 * 6       3");
 
     }
 
