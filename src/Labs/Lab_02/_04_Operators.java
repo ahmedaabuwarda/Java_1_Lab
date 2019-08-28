@@ -27,8 +27,7 @@ public class _04_Operators {
         System.out.println(" 10.0 / 3 = " + (10.0 / 3));    //prints 3.3335.
 
         // The % operator yields the remainder after division.
-        System.out.println("\n 7 % 3 yields: " + (7 % 3) + "\n" +
-                " 12 % 4 yields: " + (12 % 4));
+        System.out.println("\n 7 % 3 yields: " + (7 % 3) + "\n" + " 12 % 4 yields: " + (12 % 4));
 
     }
 
