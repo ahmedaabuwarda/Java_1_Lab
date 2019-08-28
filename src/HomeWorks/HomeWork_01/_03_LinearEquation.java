@@ -1,21 +1,22 @@
-/*
-Use Cramer’s rule to solve the following 2 * 2 system of linear equation:
-
-ax + by = e         x = ((e * d) - (b * f)) / ((a * d) - (b * c))
-cx + dy = f         Y = ((a * f) - (e * c)) / ((a * d) - (b * c))
-
-Write a program that solves the following equation and displays the value for x and y:
-
-3.4x + 50.2y = 44.5
-2.1x + 0.55y = 5.9
-*/
+/**
+ * To change this template file, choose Settings | Editor | File and Code Templates
+ * and change the template in the editor.
+ */
 
 package HomeWorks.HomeWork_01;
 
 import java.util.Scanner;
 
+/**
+ * @author Ahmed Abuwarda on: Aug 29,2019.
+ */
 public class _03_LinearEquation {
+
+    /**
+     * @param args the command line here.
+     */
     public static void main(String[] args) {
+        // TODO code application logic here.
 
         System.out.println("\n Example: " +
                 "\n >> ax + by = e  >>>  5x + 3y = 7" +
@@ -42,4 +43,5 @@ public class _03_LinearEquation {
                 "\n >> y = " + y);
 
     }
+
 }

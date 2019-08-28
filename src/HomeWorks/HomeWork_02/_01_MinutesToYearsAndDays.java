@@ -1,15 +1,22 @@
-/*
-Write a program that prompts the user to enter the minutes (e.g., 1 billion), and
-displays the number of years and days for the minutes. For simplicity, assume a year
-has 365 days.
-*/
+/**
+ * To change this template file, choose Settings | Editor | File and Code Templates
+ * and change the template in the editor.
+ */
 
 package HomeWorks.HomeWork_02;
 
 import java.util.Scanner;
 
+/**
+ * @author Ahmed Abuwarda on: Aug 29,2019.
+ */
 public class _01_MinutesToYearsAndDays {
+
+    /**
+     * @param args the command line here.
+     */
     public static void main(String[] args) {
+        // TODO code application logic here.
 
         Scanner input = new Scanner(System.in);
         System.out.print("\n  >> Enter the number of minutes: ");
@@ -20,4 +27,5 @@ public class _01_MinutesToYearsAndDays {
         System.out.println("  >> " + years + " years and " + remDays + " days");
 
     }
+
 }
