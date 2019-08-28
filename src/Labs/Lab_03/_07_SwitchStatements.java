@@ -7,13 +7,24 @@ package Labs.Lab_03;
 
 import java.util.Scanner;
 
+/**
+ * @author Ahmed Abuwarda, Date: Aug 29,2019.
+ */
 public class _07_SwitchStatements {
+
+    /**
+     * @param args the command line here.
+     */
     public static void main(String[] args) {
+        // TODO code application logic here.
 
         Scanner input = new Scanner(System.in);
         System.out.print("\n  >> Enter your birth month: ");
+
         int month = input.nextInt();
-        switch (month){
+
+        // Switch case.
+        switch (month) {
             case 1:
                 System.out.println("  >> Jan");
                 break;
@@ -55,4 +66,5 @@ public class _07_SwitchStatements {
         }
 
     }
+
 }
