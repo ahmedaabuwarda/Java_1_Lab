@@ -22,8 +22,7 @@ public class _04_FeetToMeters {
         System.out.print("\n >> Enter Your Number of Feet: ");
         double feet = input.nextDouble();
         double meter = feet * 0.305;
-        System.out.println("\n >> The Number of " + feet + " Feet in Meter is: "
-                + meter + " Meter");
+        System.out.println("\n >> The Number of " + feet + " Feet in Meter is: " + meter + " Meter");
 
     }
 
