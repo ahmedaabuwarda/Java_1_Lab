@@ -19,6 +19,7 @@ public class _01_IncreasingOrder {
         // TODO code application logic here.
 
         Scanner input = new Scanner(System.in);
+
         System.out.print("\n  >> Enter three integers: ");
         int numb1 = input.nextInt();
         int numb2 = input.nextInt();
