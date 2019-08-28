@@ -1,6 +1,7 @@
-/*
- Write a program that receives an ASCII code (an integer between 0 and 127) and displays its character.
-*/
+/**
+ * To change this template file, choose Settings | Editor | File and Code Templates
+ * and change the template in the editor.
+ */
 
 package Labs.Lab_04;
 

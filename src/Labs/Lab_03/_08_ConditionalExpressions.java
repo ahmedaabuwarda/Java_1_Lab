@@ -1,6 +1,7 @@
-/*
-Write a program that reads a number and prints "Even" if the number is even, and "Odd" if the number is odd.
-*/
+/**
+ * To change this template file, choose Settings | Editor | File and Code Templates
+ * and change the template in the editor.
+ */
 
 package Labs.Lab_03;
 

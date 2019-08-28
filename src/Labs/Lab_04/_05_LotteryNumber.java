@@ -1,11 +1,7 @@
-/*
-Write a program that randomly generates a number of two digits, prompts the user to enter
-a two-digit number, and determines whether the user wins according to the following rules:
-
-1. If the user input matches the lottery number in the exact order, the award is $10,000.
-2. If all digits in the user input match all digits in the lottery number, the award is $3,000.
-3. If one digit in the user input matches a digit in the lottery number, the award is $1,000.
-*/
+/**
+ * To change this template file, choose Settings | Editor | File and Code Templates
+ * and change the template in the editor.
+ */
 
 package Labs.Lab_04;
 

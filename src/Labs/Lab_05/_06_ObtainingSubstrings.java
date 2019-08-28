@@ -1,3 +1,8 @@
+/**
+ * To change this template file, choose Settings | Editor | File and Code Templates
+ * and change the template in the editor.
+ */
+
 package Labs.Lab_05;
 
 public class _06_ObtainingSubstrings {

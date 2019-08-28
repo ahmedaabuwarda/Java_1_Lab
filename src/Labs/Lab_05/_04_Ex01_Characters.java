@@ -1,11 +1,7 @@
-/*
-Write a Java program to prompt the user to enter a line and output the following:
-
-• How many characters in the line?
-• The fifth character (if exists)
-• All characters in uppercase
-• All characters in lowercase
-*/
+/**
+ * To change this template file, choose Settings | Editor | File and Code Templates
+ * and change the template in the editor.
+ */
 
 package Labs.Lab_05;
 

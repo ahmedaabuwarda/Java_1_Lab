@@ -1,6 +1,7 @@
-/*
-Re-Write the previous exercise using the built-in Java methods.
-*/
+/**
+ * To change this template file, choose Settings | Editor | File and Code Templates
+ * and change the template in the editor.
+ */
 
 package Labs.Lab_04;
 

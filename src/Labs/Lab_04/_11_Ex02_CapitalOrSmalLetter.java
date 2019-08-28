@@ -1,6 +1,7 @@
-/*
-Write a program that reads a character and prints weather it's a capital letter, small letter or a digit.
-*/
+/**
+ * To change this template file, choose Settings | Editor | File and Code Templates
+ * and change the template in the editor.
+ */
 
 package Labs.Lab_04;
 

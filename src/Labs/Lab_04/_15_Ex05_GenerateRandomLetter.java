@@ -1,8 +1,7 @@
-/*
-Write a program that prompts the user to enter a character ch. If the character is 'U' or 'u' then
-generate a random uppercase letter. If the character is 'L' or 'l' then generate a random
-lowercase letter. Else, print the character.
-*/
+/**
+ * To change this template file, choose Settings | Editor | File and Code Templates
+ * and change the template in the editor.
+ */
 
 package Labs.Lab_04;
 
