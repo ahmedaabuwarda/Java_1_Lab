@@ -19,6 +19,7 @@ public class _01_MaximumNumber {
         // TODO code application logic here.
 
         Scanner input = new Scanner(System.in);
+
         System.out.print("\n  >> Enter three numbers: ");
         double num1 = input.nextDouble();
         double num2 = input.nextDouble();
