@@ -20,13 +20,13 @@ public class _09_Ex02_SumDigits {
 
         Scanner input = new Scanner(System.in);
 
-        System.out.print("\n  >> Enter your digits(0-999): ");
+        System.out.print("\n >> Enter your digits(0-999): ");
         int number = input.nextInt();
 
         int num1 = number / 100;
         int num2 = (number % 100) / 10;
         int num3 = number % 10;
-        System.out.println("  >> The Total is: " + (num1 + num2 + num3));
+        System.out.println(" >> The Total is: " + (num1 + num2 + num3));
 
     }
 
