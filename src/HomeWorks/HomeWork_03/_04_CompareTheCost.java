@@ -19,6 +19,7 @@ public class _04_CompareTheCost {
         // TODO code application logic here.
 
         Scanner input = new Scanner(System.in);
+
         System.out.print("\n  >> Enter weight and price for package 1: ");
         double weight1 = input.nextDouble();
         double price1 = input.nextDouble();
