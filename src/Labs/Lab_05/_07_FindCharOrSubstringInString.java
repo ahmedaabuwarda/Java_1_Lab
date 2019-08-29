@@ -30,6 +30,7 @@ public class _07_FindCharOrSubstringInString {
                 message.lastIndexOf("come") + "\n" + // returns 3
                 message.lastIndexOf("Java", 5) + "\n" + // returns -1.
                 message.lastIndexOf("Java")); // returns 11
+
     }
 
 }
