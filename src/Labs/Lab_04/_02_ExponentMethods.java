@@ -5,8 +5,16 @@
 
 package Labs.Lab_04;
 
+/**
+ * @author Ahmed Abuwarda, Date: Aug 29,2019.
+ */
 public class _02_ExponentMethods {
+
+    /**
+     * @param args the command line here.
+     */
     public static void main(String[] args) {
+        // TODO code application logic here.
 
         System.out.println("\n Method \t Description" +
                 "\n exp(x) \t Returns e^x." +
@@ -19,8 +27,8 @@ public class _02_ExponentMethods {
                 "\n exp(10) = " + Math.exp(10) +
                 "\n log(10) = " + Math.log(10) +
                 "\n log10(10) = " + Math.log10(10) +
-                "\n pow(10 ,10)" + Math.pow(10 , 10) +
-                "\n sqrt(10) = " +Math.sqrt(10));
+                "\n pow(10 ,10)" + Math.pow(10, 10) +
+                "\n sqrt(10) = " + Math.sqrt(10));
 
     }
 }

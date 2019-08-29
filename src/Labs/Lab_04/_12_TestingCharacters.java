@@ -5,8 +5,16 @@
 
 package Labs.Lab_04;
 
+/**
+ * @author Ahmed Abuwarda, Date: Aug 29,2019.
+ */
 public class _12_TestingCharacters {
+
+    /**
+     * @param args the command line here.
+     */
     public static void main(String[] args) {
+        // TODO code application logic here.
 
         System.out.println("\n Method \t\t\t\t Description" +
                 "\n isDigit(ch) \t\t\t True if Digit." +

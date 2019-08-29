@@ -5,8 +5,16 @@
 
 package Labs.Lab_04;
 
+/**
+ * @author Ahmed Abuwarda, Date: Aug 29,2019.
+ */
 public class _06_CharactersAndOperations {
+
+    /**
+     * @param args the command line here.
+     */
     public static void main(String[] args) {
+        // TODO code application logic here.
 
         char letter = 'A';
         char numChar = '4';

@@ -5,8 +5,16 @@
 
 package Labs.Lab_04;
 
+/**
+ * @author Ahmed Abuwarda, Date: Aug 29,2019.
+ */
 public class _07_EscapeSequences {
+
+    /**
+     * @param args the command line here.
+     */
     public static void main(String[] args) {
+        // TODO code application logic here.
 
         System.out.println("\n Java uses a special notation to represent special characters." +
                 "\n This special notation, called an escape sequence, consists of a backslash (\\)" +
@@ -25,7 +33,7 @@ public class _07_EscapeSequences {
                 "\n \\\" \t\t\t\t Double Quote \t\t \\u0022  \t\t 34");
 
         System.out.println("\n Welcome to \"IUG\\JavaLab\"" +
-                        "\n Lab4:\t Math Functions & Characters.");
+                "\n Lab4:\t Math Functions & Characters.");
 
     }
 }

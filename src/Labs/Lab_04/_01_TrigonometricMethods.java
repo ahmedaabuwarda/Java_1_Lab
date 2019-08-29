@@ -5,8 +5,16 @@
 
 package Labs.Lab_04;
 
+/**
+ * @author Ahmed Abuwarda, Date: Aug 29,2019.
+ */
 public class _01_TrigonometricMethods {
+
+    /**
+     * @param args the command line here.
+     */
     public static void main(String[] args) {
+        // TODO code application logic here.
 
         System.out.println("\n Method \t\t\t Description" +
                 "\n sin(radius) \t\t Returns the sine of an angle." +
@@ -29,4 +37,5 @@ public class _01_TrigonometricMethods {
                 "\n atan(30) = " + Math.round(Math.atan(30)));
 
     }
+
 }
