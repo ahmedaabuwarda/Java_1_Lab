@@ -25,4 +25,5 @@ public class _10_ComparingAndTestingCharacters {
                 "\n 'a' < 'A' = " + ('a' < 'A'));
 
     }
+
 }

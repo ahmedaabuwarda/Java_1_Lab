@@ -22,15 +22,25 @@ public class _13_Ex03_CapitalOrSmallLetter {
         System.out.print("\n  >> Enter your letter: ");
         String letter = input.nextLine();
         char ch = letter.charAt(0);
+
         if (Character.isDigit(ch)) {
+
             System.out.println("  >> The letter " + letter + " is Digit.");
+
         } else if (Character.isUpperCase(ch)) {
+
             System.out.println("  >> The letter " + letter + " is Capital Letter.");
+
         } else if (Character.isLowerCase(ch)) {
+
             System.out.println("  >> The letter " + letter + " is Small Letter.");
+
         } else {
+
             System.out.println("  >> Invalid Letter!");
+
         }
 
     }
+
 }

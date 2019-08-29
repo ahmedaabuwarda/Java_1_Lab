@@ -38,4 +38,5 @@ public class _08_CastingBetweenCharAndNumericTypes {
                 "\n byte j = (byte) '\\uFFF4';  >>  is correct. = " + j);
 
     }
+
 }

@@ -31,4 +31,5 @@ public class _02_ExponentMethods {
                 "\n sqrt(10) = " + Math.sqrt(10));
 
     }
+
 }

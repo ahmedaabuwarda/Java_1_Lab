@@ -26,4 +26,5 @@ public class _12_TestingCharacters {
                 "\n toUpperCase(ch) \t\t Convert the Character to UpperCase.");
 
     }
+
 }

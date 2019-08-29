@@ -35,4 +35,5 @@ public class _06_CharactersAndOperations {
         System.out.println("\n  ++B = " + ++ch);
 
     }
+
 }

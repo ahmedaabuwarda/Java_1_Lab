@@ -33,4 +33,5 @@ public class _04_OtherMathematicalFunctions {
                 "(int)(5 + Math.random() * 11) = " + (int) (5 + Math.random() * 11));
 
     }
+
 }
