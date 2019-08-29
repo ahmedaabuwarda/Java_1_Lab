@@ -23,4 +23,5 @@ public class _06_ObtainingSubstrings {
         System.out.println(message2);       // print from index 12 to the end of text, including (12).
 
     }
+
 }

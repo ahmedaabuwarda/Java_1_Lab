@@ -17,6 +17,7 @@ public class _07_FindCharOrSubstringInString {
         // TODO code application logic here.
 
         String message = "Welcome to Java";
+
         System.out.println(message.indexOf('W') + "\n" + // returns 0
                 message.indexOf('o') + "\n" + // returns 4
                 message.indexOf('o', 5) + "\n" + // returns 9
@@ -30,4 +31,5 @@ public class _07_FindCharOrSubstringInString {
                 message.lastIndexOf("Java", 5) + "\n" + // returns -1.
                 message.lastIndexOf("Java")); // returns 11
     }
+
 }

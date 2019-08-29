@@ -31,4 +31,5 @@ public class _02_GettingCharactersFromString {
         */
 
     }
+
 }
