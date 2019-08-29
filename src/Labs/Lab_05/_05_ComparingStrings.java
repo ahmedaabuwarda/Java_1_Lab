@@ -5,8 +5,16 @@
 
 package Labs.Lab_05;
 
+/**
+ * @author Ahmed Abuwarda, Date: Aug 29,2019.
+ */
 public class _05_ComparingStrings {
+
+    /**
+     * @param args the command line here.
+     */
     public static void main(String[] args) {
+        // TODO code application logic here.
 
         System.out.println("\n Method \t\t\t\t\t Description" +
                 "\n equals(s1) \t\t\t\t return true if the string equals s1." +

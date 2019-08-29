@@ -5,8 +5,17 @@
 
 package Labs.Lab_05;
 
+/**
+ * @author Ahmed Abuwarda, Date: Aug 29,2019.
+ */
 public class _07_FindCharOrSubstringInString {
+
+    /**
+     * @param args the command line here.
+     */
     public static void main(String[] args) {
+        // TODO code application logic here.
+
         String message = "Welcome to Java";
         System.out.println(message.indexOf('W') + "\n" + // returns 0
                 message.indexOf('o') + "\n" + // returns 4

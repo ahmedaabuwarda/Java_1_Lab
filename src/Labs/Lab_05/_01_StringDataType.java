@@ -5,8 +5,16 @@
 
 package Labs.Lab_05;
 
+/**
+ * @author Ahmed Abuwarda, Date: Aug 29,2019.
+ */
 public class _01_StringDataType {
+
+    /**
+     * @param args the command line here.
+     */
     public static void main(String[] args) {
+        // TODO code application logic here.
 
         System.out.println("\n char type represents only one character." +
                 "\n String: a sequence of characters is enclosed in double quotation marks.");

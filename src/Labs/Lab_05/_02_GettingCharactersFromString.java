@@ -5,8 +5,16 @@
 
 package Labs.Lab_05;
 
+/**
+ * @author Ahmed Abuwarda, Date: Aug 29,2019.
+ */
 public class _02_GettingCharactersFromString {
+
+    /**
+     * @param args the command line here.
+     */
     public static void main(String[] args) {
+        // TODO code application logic here.
 
         // The str.charAt(index) method can be used to retrieve a specific character in a string str.
 
